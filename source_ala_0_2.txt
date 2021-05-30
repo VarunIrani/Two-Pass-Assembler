@@ -1,0 +1,3 @@
+0 &X N1
+1 &Y N2
+2 &REG CREG
