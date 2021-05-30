@@ -77,6 +77,8 @@ public class SecondPass {
 			}
 			currentLineNumber++;
 		}
+		outputCode.append("END").append("\n");
+		currentLineNumber++;
 	}
 
 	private int lineHasMacroCall(String line) {
